@@ -6,15 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>lestercorp es aquí!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to lestercorp! We are still working on our site, but hope to be around soon" />
+        <Header title="Lestercorp está aquí para ayudarle con sus necesidades. Estaremos pronto con ustedes dando mayor información en esta página" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+          </p>
       </main>
 
       <Footer />
